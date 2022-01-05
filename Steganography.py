@@ -11,6 +11,8 @@ def main():
 
     # Handles main menu user input
 
+    print("Welcome to the Steganography Utility!")
+
     while True:
         choice = get_choice(["Hide a message in an image", "Read a hidden message from an image", "Quit"], "What would you like to do?")
         if choice == 0:

@@ -1,6 +1,6 @@
 # Steganography Utility
 # Nathan Lenzini
-# 12/31/2021
+# 01/05/2022
 
 import os
 from PIL import Image, ImageOps
